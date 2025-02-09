@@ -30,6 +30,7 @@ timer.Start();
 //_28_FindIndexOfFirstOccurrenceInString.Solution("mississippi", "pi");
 //_14_LongestCommonPrefix.Solution(["aaa", "aa", "aaaa"]);
 //_344_ReverseString.Solution(['H', 'e', 'l', 'l', 'o']);
+//_119_PascalsTriangle2.Solution(3);
 
 #endregion
 
