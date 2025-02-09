@@ -40,6 +40,7 @@ timer.Start();
 //_54_SpiralMatrix.Solution([[1, 2, 3, 4], [5, 6, 7, 8], [9, 10, 11, 12]]);
 //_167_TwoSum2InputArrayIsSorted.Solution([3, 24, 50, 79, 88, 150, 345], 200);
 //_209_MinimumSizeSubarraySum.Solution(11, [2, 4, 5, 7, 8, 9]);
+//_189_RotateArray.Solution([1, 2, 3, 4, 5, 6, 7], 3);
 
 #endregion
 
