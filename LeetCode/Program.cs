@@ -33,6 +33,7 @@ timer.Start();
 //_119_PascalsTriangle2.Solution(3);
 //_557_ReverseWordsInString3.Solution("Let's take LeetCode contest");
 //_705_DesignHashSet.Solution();
+//_706_DesignHashMap.Solution();
 
 #endregion
 
