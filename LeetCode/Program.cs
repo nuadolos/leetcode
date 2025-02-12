@@ -34,6 +34,7 @@ timer.Start();
 //_557_ReverseWordsInString3.Solution("Let's take LeetCode contest");
 //_705_DesignHashSet.Solution();
 //_706_DesignHashMap.Solution();
+//_217_ContainsDuplicate.Solution([1, 4, 3, 2]);
 
 #endregion
 
