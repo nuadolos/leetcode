@@ -36,6 +36,7 @@ timer.Start();
 //_706_DesignHashMap.Solution();
 //_217_ContainsDuplicate.Solution([1, 4, 3, 2]);
 //_136_SingleNumber.Solution([4, 1, 2, 1, 2]);
+//_349_IntersectionOfTwoArrays.Solution([1, 2, 2, 1], [2, 2]);
 
 #endregion
 
