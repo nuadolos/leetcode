@@ -1,9 +1,16 @@
-﻿using LeetCode.Solutions.Easy;
+﻿using LeetCode.Solutions.BinaryTree;
+using LeetCode.Solutions.Easy;
 using LeetCode.Solutions.Medium;
 using System.Diagnostics;
 
 var timer = new Stopwatch();
 timer.Start();
+
+#region BinaryTree
+
+//BinaryTreeSolutions.Run();
+
+#endregion
 
 #region Easy
 
