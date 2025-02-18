@@ -1,4 +1,4 @@
-﻿namespace LeetCode.Solutions.Easy;
+﻿namespace LeetCode.Solutions.HashTable.TwoSum;
 
 public static class _1_TwoSum
 {
@@ -17,4 +17,9 @@ public static class _1_TwoSum
 
         throw new NotSupportedException();
     }
+}
+
+public static class _1_TwoSumTestCases
+{
+    public static (int[] Nums, int Target) Test_1 { get; } = ([2, 7, 11, 15], 9);
 }

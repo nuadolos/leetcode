@@ -1,16 +1,14 @@
 ﻿using LeetCode.Solutions.BinaryTree;
 using LeetCode.Solutions.Easy;
+using LeetCode.Solutions.HashTable;
 using LeetCode.Solutions.Medium;
 using System.Diagnostics;
 
 var timer = new Stopwatch();
 timer.Start();
 
-#region BinaryTree
-
 //BinaryTreeSolutions.Run();
-
-#endregion
+//HashTableSolutions.Run();
 
 #region Easy
 
@@ -45,7 +43,6 @@ timer.Start();
 //_136_SingleNumber.Solution([4, 1, 2, 1, 2]);
 //_349_IntersectionOfTwoArrays.Solution([1, 2, 2, 1], [2, 2]);
 //_202_HappyNumber.Solution(19);
-//_1_TwoSum.Solution([2, 7, 11, 15], 9);
 
 #endregion
 
