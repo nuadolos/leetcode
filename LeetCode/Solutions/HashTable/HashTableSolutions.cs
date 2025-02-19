@@ -1,5 +1,6 @@
 ﻿using LeetCode.Solutions.HashTable.IsomorphicStrings;
 using LeetCode.Solutions.HashTable.TwoSum;
+using LeetCode.Solutions.HashTable.ValidSudoku;
 
 namespace LeetCode.Solutions.HashTable;
 
@@ -14,5 +15,7 @@ public static class HashTableSolutions
         //_205_IsomorphicStrings.Solution(
         //    _205_IsomorphicStringsTestCases.Test_2.S,
         //    _205_IsomorphicStringsTestCases.Test_2.T);
+
+        //_36_ValidSudoku.Solution(_36_ValidSudokuTestCases.Test_1);
     }
 }
