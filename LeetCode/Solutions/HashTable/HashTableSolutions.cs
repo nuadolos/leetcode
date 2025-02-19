@@ -1,4 +1,5 @@
 ﻿using LeetCode.Solutions.HashTable.IsomorphicStrings;
+using LeetCode.Solutions.HashTable.TopKFrequentElements;
 using LeetCode.Solutions.HashTable.TwoSum;
 using LeetCode.Solutions.HashTable.ValidSudoku;
 
@@ -17,5 +18,9 @@ public static class HashTableSolutions
         //    _205_IsomorphicStringsTestCases.Test_2.T);
 
         //_36_ValidSudoku.Solution(_36_ValidSudokuTestCases.Test_1);
+
+        //_347_TopKFrequentElements.Solution(
+        //    _347_TopKFrequentElementsTestCases.Test_2.Nums,
+        //    _347_TopKFrequentElementsTestCases.Test_2.K);
     }
 }
