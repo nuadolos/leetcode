@@ -1,4 +1,5 @@
-﻿using LeetCode.Solutions.HashTable.IsomorphicStrings;
+﻿using LeetCode.Solutions.HashTable.FindPrefixCommonArrayOfTwoArrays;
+using LeetCode.Solutions.HashTable.IsomorphicStrings;
 using LeetCode.Solutions.HashTable.TopKFrequentElements;
 using LeetCode.Solutions.HashTable.TwoSum;
 using LeetCode.Solutions.HashTable.ValidSudoku;
@@ -22,5 +23,9 @@ public static class HashTableSolutions
         //_347_TopKFrequentElements.Solution(
         //    _347_TopKFrequentElementsTestCases.Test_2.Nums,
         //    _347_TopKFrequentElementsTestCases.Test_2.K);
+
+        //_2657_FindPrefixCommonArrayOfTwoArrays.Solution(
+        //    _2657_FindPrefixCommonArrayOfTwoArraysTestCases.Test_1.A,
+        //    _2657_FindPrefixCommonArrayOfTwoArraysTestCases.Test_1.B);
     }
 }
