@@ -1,4 +1,5 @@
 ﻿using LeetCode.Solutions.HashTable.FindPrefixCommonArrayOfTwoArrays;
+using LeetCode.Solutions.HashTable.HIndex;
 using LeetCode.Solutions.HashTable.IsomorphicStrings;
 using LeetCode.Solutions.HashTable.TopKFrequentElements;
 using LeetCode.Solutions.HashTable.TwoSum;
@@ -27,5 +28,7 @@ public static class HashTableSolutions
         //_2657_FindPrefixCommonArrayOfTwoArrays.Solution(
         //    _2657_FindPrefixCommonArrayOfTwoArraysTestCases.Test_1.A,
         //    _2657_FindPrefixCommonArrayOfTwoArraysTestCases.Test_1.B);
+
+        //_274_HIndex.Solution(_274_HIndexTestCases.Test_1);
     }
 }
