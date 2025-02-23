@@ -1,6 +1,7 @@
 ﻿using LeetCode.Solutions.HashTable.FindPrefixCommonArrayOfTwoArrays;
 using LeetCode.Solutions.HashTable.HIndex;
 using LeetCode.Solutions.HashTable.IsomorphicStrings;
+using LeetCode.Solutions.HashTable.LineReflection;
 using LeetCode.Solutions.HashTable.PalindromePermutation;
 using LeetCode.Solutions.HashTable.TopKFrequentElements;
 using LeetCode.Solutions.HashTable.TwoSum;
@@ -33,5 +34,7 @@ public static class HashTableSolutions
         //_274_HIndex.Solution(_274_HIndexTestCases.Test_1);
 
         //_266_PalindromePermutation.Solution(_266_PalindromePermutationTestCases.Test_3);
+
+        //_356_LineReflection.Solution(_356_LineReflectionTestCases.Test_2);
     }
 }
