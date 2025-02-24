@@ -5,6 +5,7 @@ using LeetCode.Solutions.HashTable.LineReflection;
 using LeetCode.Solutions.HashTable.PalindromePermutation;
 using LeetCode.Solutions.HashTable.TopKFrequentElements;
 using LeetCode.Solutions.HashTable.TwoSum;
+using LeetCode.Solutions.HashTable.ValidAnagram;
 using LeetCode.Solutions.HashTable.ValidSudoku;
 
 namespace LeetCode.Solutions.HashTable;
@@ -36,5 +37,9 @@ public static class HashTableSolutions
         //_266_PalindromePermutation.Solution(_266_PalindromePermutationTestCases.Test_3);
 
         //_356_LineReflection.Solution(_356_LineReflectionTestCases.Test_2);
+
+        //_242_ValidAnagram.Solution(
+        //    _242_ValidAnagramTestCases.Test_1.S,
+        //    _242_ValidAnagramTestCases.Test_1.T);
     }
 }
