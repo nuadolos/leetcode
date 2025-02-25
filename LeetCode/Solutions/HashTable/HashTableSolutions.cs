@@ -1,4 +1,5 @@
 ﻿using LeetCode.Solutions.HashTable.FindPrefixCommonArrayOfTwoArrays;
+using LeetCode.Solutions.HashTable.GroupAnagrams;
 using LeetCode.Solutions.HashTable.HIndex;
 using LeetCode.Solutions.HashTable.IsomorphicStrings;
 using LeetCode.Solutions.HashTable.LineReflection;
@@ -41,5 +42,7 @@ public static class HashTableSolutions
         //_242_ValidAnagram.Solution(
         //    _242_ValidAnagramTestCases.Test_1.S,
         //    _242_ValidAnagramTestCases.Test_1.T);
+
+        //_49_GroupAnagrams.Solution(_49_GroupAnagramsTestCases.Test_1);
     }
 }
