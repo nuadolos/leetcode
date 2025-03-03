@@ -3,7 +3,7 @@
 ```csharp
 public class Solution
 {
-    public int Solution(int[] nums)
+    public int MaxProduct(int[] nums)
     {
         int max1 = 0, max2 = 0;
 
