@@ -1,4 +1,5 @@
-﻿using LeetCode.Solutions.Array.MaximumProductOfTwoElementsInArray;
+﻿using LeetCode.Solutions.Array.FindPivotIndex;
+using LeetCode.Solutions.Array.MaximumProductOfTwoElementsInArray;
 using LeetCode.Solutions.Array.MonotonicArray;
 using LeetCode.Solutions.Array.RangeSumQueryImmutable;
 
@@ -16,5 +17,7 @@ public static class ArraySolutions
         //_303_RangeSumQueryImmutable.Solution(
         //    _303_RangeSumQueryImmutableTestCases.Test_1.Func,
         //    _303_RangeSumQueryImmutableTestCases.Test_1.Args);
+
+        //_724_FindPivotIndex.Solution(_724_FindPivotIndexTestCases.Test_1);
     }
 }

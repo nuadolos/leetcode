@@ -11,3 +11,7 @@
 3. 438 Find All Anagrams in a String
     - 02.03.25 ✔
     - 16.03.25 ⏳
+
+4. 724 Find Pivot Index
+    - 09.03.25 ⏳
+    - 23.03.25 ⏳
