@@ -15,3 +15,7 @@
 4. 724 Find Pivot Index
     - 09.03.25 ⏳
     - 23.03.25 ⏳
+
+5. 560 Subarray Sum Equals K
+    - 09.03.25 ⏳
+    - 23.03.25 ⏳

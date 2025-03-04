@@ -2,6 +2,7 @@
 using LeetCode.Solutions.Array.MaximumProductOfTwoElementsInArray;
 using LeetCode.Solutions.Array.MonotonicArray;
 using LeetCode.Solutions.Array.RangeSumQueryImmutable;
+using LeetCode.Solutions.Array.SubarraySumEqualsK;
 
 namespace LeetCode.Solutions.Array;
 
@@ -19,5 +20,9 @@ public static class ArraySolutions
         //    _303_RangeSumQueryImmutableTestCases.Test_1.Args);
 
         //_724_FindPivotIndex.Solution(_724_FindPivotIndexTestCases.Test_1);
+
+        //_560_SubarraySumEqualsK.Solution(
+        //    _560_SubarraySumEqualsKTestCases.Test_1.Nums,
+        //    _560_SubarraySumEqualsKTestCases.Test_1.K);
     }
 }
