@@ -1,5 +1,6 @@
 ﻿using LeetCode.Solutions.Array.FindPivotIndex;
 using LeetCode.Solutions.Array.MaximumProductOfTwoElementsInArray;
+using LeetCode.Solutions.Array.MissingNumber;
 using LeetCode.Solutions.Array.MonotonicArray;
 using LeetCode.Solutions.Array.RangeSumQueryImmutable;
 using LeetCode.Solutions.Array.SubarraySumEqualsK;
@@ -24,5 +25,7 @@ public static class ArraySolutions
         //_560_SubarraySumEqualsK.Solution(
         //    _560_SubarraySumEqualsKTestCases.Test_1.Nums,
         //    _560_SubarraySumEqualsKTestCases.Test_1.K);
+
+        //_268_MissingNumber.Solution(_268_MissingNumberTestCases.Test_1);
     }
 }
