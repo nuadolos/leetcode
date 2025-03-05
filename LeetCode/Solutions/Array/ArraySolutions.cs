@@ -3,6 +3,7 @@ using LeetCode.Solutions.Array.MaximumProductOfTwoElementsInArray;
 using LeetCode.Solutions.Array.MissingNumber;
 using LeetCode.Solutions.Array.MonotonicArray;
 using LeetCode.Solutions.Array.RangeSumQueryImmutable;
+using LeetCode.Solutions.Array.RotateArray;
 using LeetCode.Solutions.Array.SubarraySumEqualsK;
 
 namespace LeetCode.Solutions.Array;
@@ -27,5 +28,9 @@ public static class ArraySolutions
         //    _560_SubarraySumEqualsKTestCases.Test_1.K);
 
         //_268_MissingNumber.Solution(_268_MissingNumberTestCases.Test_1);
+
+        //_189_RotateArray.Solution(
+        //    _189_RotateArrayTestCases.Test_1.Nums,
+        //    _189_RotateArrayTestCases.Test_1.K);
     }
 }
