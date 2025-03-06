@@ -1,4 +1,5 @@
 ﻿using LeetCode.Solutions.Array.FindPivotIndex;
+using LeetCode.Solutions.Array.LongestContinuousIncreasingSubsequence;
 using LeetCode.Solutions.Array.MaximumProductOfTwoElementsInArray;
 using LeetCode.Solutions.Array.MissingNumber;
 using LeetCode.Solutions.Array.MonotonicArray;
@@ -32,5 +33,8 @@ public static class ArraySolutions
         //_189_RotateArray.Solution(
         //    _189_RotateArrayTestCases.Test_1.Nums,
         //    _189_RotateArrayTestCases.Test_1.K);
+
+        //_674_LongestContinuousIncreasingSubsequence.Solution(
+        //    _674_LongestContinuousIncreasingSubsequenceTestCases.Test_1);
     }
 }
