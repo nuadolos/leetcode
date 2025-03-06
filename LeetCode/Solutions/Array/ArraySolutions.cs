@@ -1,6 +1,7 @@
 ﻿using LeetCode.Solutions.Array.FindPivotIndex;
 using LeetCode.Solutions.Array.LongestContinuousIncreasingSubsequence;
 using LeetCode.Solutions.Array.MaximumProductOfTwoElementsInArray;
+using LeetCode.Solutions.Array.MinimumDifferenceBetweenHighestAndLowestOfKScores;
 using LeetCode.Solutions.Array.MissingNumber;
 using LeetCode.Solutions.Array.MonotonicArray;
 using LeetCode.Solutions.Array.RangeSumQueryImmutable;
@@ -36,5 +37,9 @@ public static class ArraySolutions
 
         //_674_LongestContinuousIncreasingSubsequence.Solution(
         //    _674_LongestContinuousIncreasingSubsequenceTestCases.Test_1);
+
+        //_1984_MinimumDifferenceBetweenHighestAndLowestOfKScores.Solution(
+        //    _1984_MinimumDifferenceBetweenHighestAndLowestOfKScoresTestCases.Test_1.Nums,
+        //    _1984_MinimumDifferenceBetweenHighestAndLowestOfKScoresTestCases.Test_1.K);
     }
 }

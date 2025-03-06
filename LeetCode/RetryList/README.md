@@ -19,3 +19,7 @@
 5. 560 Subarray Sum Equals K
     - 09.03.25 ⏳
     - 23.03.25 ⏳
+
+6. 1984 Minimum Difference Between Highest and Lowest of K Scores
+    - 09.03.25 ⏳
+    - 23.03.25 ⏳
