@@ -8,6 +8,7 @@ using LeetCode.Solutions.Array.MonotonicArray;
 using LeetCode.Solutions.Array.RangeSumQueryImmutable;
 using LeetCode.Solutions.Array.RotateArray;
 using LeetCode.Solutions.Array.SubarraySumEqualsK;
+using LeetCode.Solutions.Array.XORQueriesOfSubarray;
 
 namespace LeetCode.Solutions.Array;
 
@@ -44,5 +45,9 @@ public static class ArraySolutions
         //    _1984_MinimumDifferenceBetweenHighestAndLowestOfKScoresTestCases.Test_1.K);
 
         //_1572_MatrixDiagonalSum.Solution(_1572_MatrixDiagonalSumTestCases.Test_1);
+
+        //_1310_XORQueriesOfSubarray.Solution(
+        //    _1310_XORQueriesOfSubarrayTestCases.Test_1.Arr,
+        //    _1310_XORQueriesOfSubarrayTestCases.Test_1.Queries);
     }
 }
