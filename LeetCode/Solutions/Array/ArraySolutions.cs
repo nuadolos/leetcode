@@ -5,6 +5,7 @@ using LeetCode.Solutions.Array.MaximumProductOfTwoElementsInArray;
 using LeetCode.Solutions.Array.MinimumDifferenceBetweenHighestAndLowestOfKScores;
 using LeetCode.Solutions.Array.MissingNumber;
 using LeetCode.Solutions.Array.MonotonicArray;
+using LeetCode.Solutions.Array.RangeSumQuery2DImmutable;
 using LeetCode.Solutions.Array.RangeSumQueryImmutable;
 using LeetCode.Solutions.Array.RotateArray;
 using LeetCode.Solutions.Array.SubarraySumEqualsK;
@@ -49,5 +50,9 @@ public static class ArraySolutions
         //_1310_XORQueriesOfSubarray.Solution(
         //    _1310_XORQueriesOfSubarrayTestCases.Test_1.Arr,
         //    _1310_XORQueriesOfSubarrayTestCases.Test_1.Queries);
+
+        //_304_RangeSumQuery2DImmutable.Solution(
+        //    _304_RangeSumQuery2DImmutableTestCases.Test_1.Func,
+        //    _304_RangeSumQuery2DImmutableTestCases.Test_1.Args);
     }
 }
