@@ -1,4 +1,4 @@
-﻿namespace LeetCode.Solutions.Easy;
+﻿namespace LeetCode.Solutions.TwoPointers.SquaresOfSortedArray;
 
 public static class _977_SquaresOfSortedArray
 {
@@ -32,4 +32,10 @@ public static class _977_SquaresOfSortedArray
 
         return result;
     }
+}
+
+public static class _977_SquaresOfSortedArrayTestCases
+{
+    public static int[] Test_1 { get; } = [-4, -1, 0, 3, 10];
+    public static int[] Test_2 { get; } = [-7, -3, 2, 3, 11];
 }

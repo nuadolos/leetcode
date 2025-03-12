@@ -4,6 +4,7 @@ using LeetCode.Solutions.BinaryTree;
 using LeetCode.Solutions.Easy;
 using LeetCode.Solutions.HashTable;
 using LeetCode.Solutions.Medium;
+using LeetCode.Solutions.TwoPointers;
 using System.Diagnostics;
 
 var timer = new Stopwatch();
@@ -12,6 +13,7 @@ timer.Start();
 //BinaryTreeSolutions.Run();
 //HashTableSolutions.Run();
 //ArraySolutions.Run();
+//TwoPointersSolutions.Run();
 //RetryListSolutions.Run();
 
 #region Easy
@@ -29,7 +31,6 @@ timer.Start();
 //_1051_HeightChecker.Solution([5, 1, 2, 3, 4]);
 //_414_ThirdMaximumNumber.Solution([2, 4, 4, 3, 4, 5]);
 //_448_FindAllNumbersDisappearedInAnArray.Solution([4, 3, 2, 7, 8, 2, 3, 1]);
-//_977_SquaresOfSortedArray.Solution([-4, -1, 0, 3, 10]);
 //_1672_RichestCustomerWealth.Solution([[1, 2, 3], [3, 2, 1]]);
 //_383_RansomNote.Solution("aa", "aab");
 //_1295_FindNumberWithEvenNumberOfDigits.Solution([12, 345, 2, 6, 7896]);
