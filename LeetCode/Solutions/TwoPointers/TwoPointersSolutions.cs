@@ -1,4 +1,5 @@
 ﻿using LeetCode.Solutions.TwoPointers.ContainerWithMostWater;
+using LeetCode.Solutions.TwoPointers.IntersectionOfSortedArrays;
 using LeetCode.Solutions.TwoPointers.MoveZeroes;
 using LeetCode.Solutions.TwoPointers.SquaresOfSortedArray;
 using LeetCode.Solutions.TwoPointers.TwoSum2InputArrayIsSorted;
@@ -25,5 +26,9 @@ public static class TwoPointersSolutions
 
         //_283_MoveZeroes.Solution(
         //    _283_MoveZeroesTestCases.Test_1);
+
+        //_InterviewBit_IntersectionOfSortedArrays.Solution(
+        //    _InterviewBit_IntersectionOfSortedArraysTestCases.Test_1.A,
+        //    _InterviewBit_IntersectionOfSortedArraysTestCases.Test_1.B);
     }
 }
