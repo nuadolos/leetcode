@@ -26,7 +26,6 @@ timer.Start();
 //_1346_CheckIfNAndItsDoubleExist.Solution([3, 1, 7, 11]);
 //_941_ValidMountainArray.Solution([0, 1, 2, 1]);
 //_1299_ReplaceElementsWithGreatestElementOnRightSide.Solution([17, 18, 5, 4, 6, 1]);
-//_283_MoveZeroes.Solution([0, 1, 0, 3, 12]);
 //_905_SortArrayByParity.Solution([3, 1, 2, 4]);
 //_1051_HeightChecker.Solution([5, 1, 2, 3, 4]);
 //_414_ThirdMaximumNumber.Solution([2, 4, 4, 3, 4, 5]);
