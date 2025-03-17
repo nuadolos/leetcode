@@ -1,4 +1,5 @@
-﻿using LeetCode.Solutions.TwoPointers.ContainerWithMostWater;
+﻿using LeetCode.Solutions.TwoPointers.BackspaceStringCompare;
+using LeetCode.Solutions.TwoPointers.ContainerWithMostWater;
 using LeetCode.Solutions.TwoPointers.IntersectionOfSortedArrays;
 using LeetCode.Solutions.TwoPointers.MoveZeroes;
 using LeetCode.Solutions.TwoPointers.SquaresOfSortedArray;
@@ -30,5 +31,9 @@ public static class TwoPointersSolutions
         //_InterviewBit_IntersectionOfSortedArrays.Solution(
         //    _InterviewBit_IntersectionOfSortedArraysTestCases.Test_1.A,
         //    _InterviewBit_IntersectionOfSortedArraysTestCases.Test_1.B);
+
+        //_844_BackspaceStringCompare.Solution(
+        //    _844_BackspaceStringCompareTestCases.Test_1.S,
+        //    _844_BackspaceStringCompareTestCases.Test_1.T);
     }
 }

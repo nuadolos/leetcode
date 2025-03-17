@@ -20,6 +20,10 @@
     - 12.03.25 ✔
     - 25.03.25 ⏳
 
+1. 844 Backspace String Compare 
+    - 23.03.25 ⏳
+    - 06.04.25 ⏳
+
 ## Archive
 
 1. 205 Isomorphic Strings
