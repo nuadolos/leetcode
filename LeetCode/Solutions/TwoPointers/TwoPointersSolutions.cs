@@ -1,6 +1,7 @@
 ﻿using LeetCode.Solutions.TwoPointers.BackspaceStringCompare;
 using LeetCode.Solutions.TwoPointers.ContainerWithMostWater;
 using LeetCode.Solutions.TwoPointers.IntersectionOfSortedArrays;
+using LeetCode.Solutions.TwoPointers.LongestCommonPrefix;
 using LeetCode.Solutions.TwoPointers.MoveZeroes;
 using LeetCode.Solutions.TwoPointers.SquaresOfSortedArray;
 using LeetCode.Solutions.TwoPointers.TwoSum2InputArrayIsSorted;
@@ -35,5 +36,8 @@ public static class TwoPointersSolutions
         //_844_BackspaceStringCompare.Solution(
         //    _844_BackspaceStringCompareTestCases.Test_1.S,
         //    _844_BackspaceStringCompareTestCases.Test_1.T);
+
+        //_14_LongestCommonPrefix.Solution(
+        //    _14_LongestCommonPrefixTestCases.Test_1);
     }
 }
