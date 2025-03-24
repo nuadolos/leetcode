@@ -17,11 +17,11 @@
     - 25.03.25 ⏳
 
 1. 844 Backspace String Compare 
-    - 23.03.25 ⏳
+    - 24.03.25 ✔
     - 06.04.25 ⏳
 
 1. 14 Longest Common Prefix 
-    - 23.03.25 ⏳
+    - 24.03.25 ✔
     - 06.04.25 ⏳
 
 ## Archive
