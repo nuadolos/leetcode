@@ -1,13 +1,5 @@
 ## RetryList
 
-1. 724 Find Pivot Index
-    - 11.03.25 ✔
-    - 24.03.25 ⏳
-
-1. 560 Subarray Sum Equals K
-    - 11.03.25 ✔
-    - 24.03.25 ⏳
-
 1. 1984 Minimum Difference Between Highest and Lowest of K Scores
     - 12.03.25 ✔
     - 25.03.25 ⏳
@@ -37,3 +29,11 @@
 1. 438 Find All Anagrams in a String
     - 02.03.25 ✔
     - 17.03.25 ✔
+
+1. 724 Find Pivot Index
+    - 11.03.25 ✔
+    - 24.03.25 ✔
+
+1. 560 Subarray Sum Equals K
+    - 11.03.25 ✔
+    - 24.03.25 ✔
