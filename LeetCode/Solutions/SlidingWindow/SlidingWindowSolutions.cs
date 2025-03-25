@@ -1,4 +1,5 @@
-﻿using LeetCode.Solutions.SlidingWindow.SummaryRanges;
+﻿using LeetCode.Solutions.SlidingWindow.MaxConsecutiveOnes;
+using LeetCode.Solutions.SlidingWindow.SummaryRanges;
 
 namespace LeetCode.Solutions.SlidingWindow;
 
@@ -8,5 +9,8 @@ public static class SlidingWindowSolutions
     {
         //_228_SummaryRanges.Solution(
         //    _228_SummaryRangesTestCases.Test_1);
+
+        //_485_MaxConsecutiveOnes.Solution(
+        //    _485_MaxConsecutiveOnesTestCases.Test_1);
     }
 }
