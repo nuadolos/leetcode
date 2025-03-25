@@ -8,25 +8,18 @@ public static class _228_SummaryRanges
         if (nums.Length == 0)
             return result;
 
-        int beginNum = nums[0], endNum = beginNum;
-        for (int i = 1; i < nums.Length; i++)
+        int left = 0, right = 0;
+        while (left < nums.Length)
         {
-            var curr = nums[i];
+            while (right + 1 < nums.Length && nums[right] + 1 == nums[right + 1])
+                right++;
 
-            if (endNum + 1 != curr)
-            {
-                result.Add(beginNum == endNum
-                    ? beginNum.ToString()
-                    : beginNum.ToString() + "->" + endNum.ToString());
-                beginNum = curr;
-            }
+            result.Add(left == right
+                ? nums[left].ToString()
+                : nums[left].ToString() + "->" + nums[right].ToString());
 
-            endNum = curr;
+            left = right = right + 1;
         }
-
-        result.Add(beginNum == endNum
-            ? beginNum.ToString()
-            : beginNum.ToString() + "->" + endNum.ToString());
 
         return result;
     }
