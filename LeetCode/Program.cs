@@ -4,6 +4,7 @@ using LeetCode.Solutions.BinaryTree;
 using LeetCode.Solutions.Easy;
 using LeetCode.Solutions.HashTable;
 using LeetCode.Solutions.Medium;
+using LeetCode.Solutions.SlidingWindow;
 using LeetCode.Solutions.TwoPointers;
 using System.Diagnostics;
 
@@ -14,6 +15,7 @@ timer.Start();
 //HashTableSolutions.Run();
 //ArraySolutions.Run();
 //TwoPointersSolutions.Run();
+//SlidingWindowSolutions.Run();
 //RetryListSolutions.Run();
 
 #region Easy
