@@ -1,13 +1,5 @@
 ## RetryList
 
-1. 1984 Minimum Difference Between Highest and Lowest of K Scores
-    - 12.03.25 ✔
-    - 25.03.25 ⏳
-
-1. 189 Rotate Array 
-    - 12.03.25 ✔
-    - 25.03.25 ⏳
-
 1. 844 Backspace String Compare 
     - 24.03.25 ✔
     - 06.04.25 ⏳
@@ -37,3 +29,11 @@
 1. 560 Subarray Sum Equals K
     - 11.03.25 ✔
     - 24.03.25 ✔
+
+1. 1984 Minimum Difference Between Highest and Lowest of K Scores
+    - 12.03.25 ✔
+    - 25.03.25 ✔
+
+1. 189 Rotate Array 
+    - 12.03.25 ✔
+    - 25.03.25 ✔
