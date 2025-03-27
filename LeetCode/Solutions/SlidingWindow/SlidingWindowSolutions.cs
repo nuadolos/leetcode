@@ -1,5 +1,6 @@
 ﻿using LeetCode.Solutions.SlidingWindow.MaxConsecutiveOnes;
 using LeetCode.Solutions.SlidingWindow.MaximizeDistanceToClosestPerson;
+using LeetCode.Solutions.SlidingWindow.StringCompression;
 using LeetCode.Solutions.SlidingWindow.SummaryRanges;
 
 namespace LeetCode.Solutions.SlidingWindow;
@@ -16,5 +17,8 @@ public static class SlidingWindowSolutions
 
         //_849_MaximizeDistanceToClosestPerson.Solution(
         //    _849_MaximizeDistanceToClosestPersonTestCases.Test_1);
+
+        //_443_StringCompression.Solution(
+        //    _443_StringCompressionTestCases.Test_1);
     }
 }
