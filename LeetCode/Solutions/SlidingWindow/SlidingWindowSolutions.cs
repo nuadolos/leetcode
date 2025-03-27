@@ -1,4 +1,5 @@
-﻿using LeetCode.Solutions.SlidingWindow.MaxConsecutiveOnes;
+﻿using LeetCode.Solutions.SlidingWindow.LongestSubstringWithoutRepeatingCharacters;
+using LeetCode.Solutions.SlidingWindow.MaxConsecutiveOnes;
 using LeetCode.Solutions.SlidingWindow.MaximizeDistanceToClosestPerson;
 using LeetCode.Solutions.SlidingWindow.StringCompression;
 using LeetCode.Solutions.SlidingWindow.SummaryRanges;
@@ -20,5 +21,8 @@ public static class SlidingWindowSolutions
 
         //_443_StringCompression.Solution(
         //    _443_StringCompressionTestCases.Test_1);
+
+        //_3_LongestSubstringWithoutRepeatingCharacters.Solution(
+        //    _3_LongestSubstringWithoutRepeatingCharactersTestCases.Test_1);
     }
 }
