@@ -1,12 +1,6 @@
 ## RetryList
 
-1. 844 Backspace String Compare 
-    - 24.03.25 ✔
-    - 06.04.25 ⏳
-
-1. 14 Longest Common Prefix 
-    - 24.03.25 ✔
-    - 06.04.25 ⏳
+Empty :)
 
 ## Archive
 
@@ -37,3 +31,11 @@
 1. 189 Rotate Array 
     - 12.03.25 ✔
     - 25.03.25 ✔
+
+1. 14 Longest Common Prefix 
+    - 24.03.25 ✔
+    - 06.04.25 ✔
+
+1. 844 Backspace String Compare 
+    - 24.03.25 ✔
+    - 06.04.25 ✔
