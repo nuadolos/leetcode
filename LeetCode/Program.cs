@@ -1,5 +1,6 @@
 ﻿using LeetCode.RetryList;
 using LeetCode.Solutions.Array;
+using LeetCode.Solutions.BinarySearch;
 using LeetCode.Solutions.BinaryTree;
 using LeetCode.Solutions.Easy;
 using LeetCode.Solutions.HashTable;
@@ -16,6 +17,7 @@ timer.Start();
 //ArraySolutions.Run();
 //TwoPointersSolutions.Run();
 //SlidingWindowSolutions.Run();
+//BinarySearchSolutions.Run();
 //RetryListSolutions.Run();
 
 #region Easy
