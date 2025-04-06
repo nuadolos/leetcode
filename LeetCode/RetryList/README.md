@@ -1,6 +1,8 @@
 ## RetryList
 
-Empty :)
+1. 33 Search in Rotated Sorted Array 
+    - 13.04.25 ⏳
+    - 27.04.25 ⏳
 
 ## Archive
 

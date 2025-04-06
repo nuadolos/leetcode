@@ -1,6 +1,7 @@
 ﻿using LeetCode.Solutions.BinarySearch.BinarySearch;
 using LeetCode.Solutions.BinarySearch.FindFirstAndLastPositionOfElementInSortedArray;
 using LeetCode.Solutions.BinarySearch.Search2DMatrix;
+using LeetCode.Solutions.BinarySearch.SearchInRotatedSortedArray;
 
 namespace LeetCode.Solutions.BinarySearch;
 
@@ -19,5 +20,9 @@ public static class BinarySearchSolutions
         //_74_Search2DMatrix.Solution(
         //    _74_Search2DMatrixTestCases.Test_1.Matrix,
         //    _74_Search2DMatrixTestCases.Test_1.Target);
+
+        //_33_SearchInRotatedSortedArray.Solution(
+        //    _33_SearchInRotatedSortedArrayTestCases.Test_1.Nums,
+        //    _33_SearchInRotatedSortedArrayTestCases.Test_1.Target);
     }
 }
