@@ -4,6 +4,7 @@ using LeetCode.Solutions.BinarySearch;
 using LeetCode.Solutions.BinaryTree;
 using LeetCode.Solutions.Easy;
 using LeetCode.Solutions.HashTable;
+using LeetCode.Solutions.LinkedList;
 using LeetCode.Solutions.Medium;
 using LeetCode.Solutions.SlidingWindow;
 using LeetCode.Solutions.TwoPointers;
@@ -18,6 +19,7 @@ timer.Start();
 //TwoPointersSolutions.Run();
 //SlidingWindowSolutions.Run();
 //BinarySearchSolutions.Run();
+//LinkedListSolutions.Run();
 //RetryListSolutions.Run();
 
 #region Easy
