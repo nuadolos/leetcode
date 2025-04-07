@@ -1,4 +1,5 @@
-﻿using LeetCode.Solutions.LinkedList.ReverseLinkedList;
+﻿using LeetCode.Solutions.LinkedList.MiddleOfLinkedList;
+using LeetCode.Solutions.LinkedList.ReverseLinkedList;
 
 namespace LeetCode.Solutions.LinkedList;
 
@@ -8,5 +9,8 @@ public static class LinkedListSolutions
     {
         //_206_ReverseLinkedList.Solution(
         //    _206_ReverseLinkedListTestCases.Test_1);
+
+        //_876_MiddleOfLinkedList.Solution(
+        //    _876_MiddleOfLinkedListTestCases.Test_1);
     }
 }
