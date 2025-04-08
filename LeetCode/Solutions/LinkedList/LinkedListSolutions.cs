@@ -1,4 +1,5 @@
-﻿using LeetCode.Solutions.LinkedList.MiddleOfLinkedList;
+﻿using LeetCode.Solutions.LinkedList.MergeTwoSortedLists;
+using LeetCode.Solutions.LinkedList.MiddleOfLinkedList;
 using LeetCode.Solutions.LinkedList.PalindromeLinkedList;
 using LeetCode.Solutions.LinkedList.ReverseLinkedList;
 
@@ -16,5 +17,9 @@ public static class LinkedListSolutions
 
         //_234_PalindromeLinkedList.Solution(
         //    _234_PalindromeLinkedListTestCases.Test_1);
+
+        //_21_MergeTwoSortedLists.Solution(
+        //    _21_MergeTwoSortedListsTestCases.Test_1.List1,
+        //    _21_MergeTwoSortedListsTestCases.Test_1.List2);
     }
 }
