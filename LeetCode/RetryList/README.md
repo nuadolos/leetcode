@@ -8,6 +8,10 @@
     - 13.04.25 ⏳
     - 27.04.25 ⏳
 
+1. 1249 Minimum Remove to Make Valid Parentheses 
+    - 20.04.25 ⏳
+    - 04.05.25 ⏳
+
 ## Archive
 
 1. 205 Isomorphic Strings
