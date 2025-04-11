@@ -1,4 +1,5 @@
 ﻿using LeetCode.Solutions.Stack.DailyTemperatures;
+using LeetCode.Solutions.Stack.EvaluateReversePolishNotation;
 using LeetCode.Solutions.Stack.MinimumRemoveToMakeValidParentheses;
 using LeetCode.Solutions.Stack.ValidParentheses;
 
@@ -16,5 +17,8 @@ public static class StackSolutions
 
         //_1249_MinimumRemoveToMakeValidParentheses.Solution(
         //    _1249_MinimumRemoveToMakeValidParenthesesTestCases.Test_1);
+
+        //_150_EvaluateReversePolishNotation.Solution(
+        //    _150_EvaluateReversePolishNotationTestCases.Test_1);
     }
 }
