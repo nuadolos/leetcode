@@ -1,4 +1,5 @@
-﻿using LeetCode.Solutions.Stack.DailyTemperatures;
+﻿using LeetCode.Solutions.Stack.BalancedParantheses;
+using LeetCode.Solutions.Stack.DailyTemperatures;
 using LeetCode.Solutions.Stack.EvaluateReversePolishNotation;
 using LeetCode.Solutions.Stack.MinimumRemoveToMakeValidParentheses;
 using LeetCode.Solutions.Stack.ValidParentheses;
@@ -20,5 +21,8 @@ public static class StackSolutions
 
         //_150_EvaluateReversePolishNotation.Solution(
         //    _150_EvaluateReversePolishNotationTestCases.Test_1);
+
+        //_InterviewBit_BalancedParantheses.Solution(
+        //    _InterviewBit_BalancedParanthesesTestCases.Test_1);
     }
 }
