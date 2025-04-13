@@ -1,5 +1,6 @@
 ﻿using LeetCode.Solutions.Intervals.IntervalListIntersections;
 using LeetCode.Solutions.Intervals.MergeIntervals;
+using LeetCode.Solutions.Intervals.MinimumNumberOfArrowsToBurstBalloons;
 
 namespace LeetCode.Solutions.Intervals;
 
@@ -13,5 +14,8 @@ public static class IntervalsSolutions
         //_986_IntervalListIntersections.Solution(
         //    _986_IntervalListIntersectionsTestCases.Test_1.FirstList,
         //    _986_IntervalListIntersectionsTestCases.Test_1.SecondList);
+
+        //_452_MinimumNumberOfArrowsToBurstBalloons.Solution(
+        //    _452_MinimumNumberOfArrowsToBurstBalloonsTestCases.Test_1);
     }
 }
