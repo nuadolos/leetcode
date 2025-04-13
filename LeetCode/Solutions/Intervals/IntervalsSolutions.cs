@@ -1,4 +1,5 @@
-﻿using LeetCode.Solutions.Intervals.IntervalListIntersections;
+﻿using LeetCode.Solutions.Intervals.CarPooling;
+using LeetCode.Solutions.Intervals.IntervalListIntersections;
 using LeetCode.Solutions.Intervals.MeetingRoomsII;
 using LeetCode.Solutions.Intervals.MergeIntervals;
 using LeetCode.Solutions.Intervals.MinimumNumberOfArrowsToBurstBalloons;
@@ -21,5 +22,9 @@ public static class IntervalsSolutions
 
         //_253_MeetingRoomsII.Solution(
         //    _253_MeetingRoomsIITestCases.Test_1);
+
+        //_1094_CarPooling.Solution(
+        //    _1094_CarPoolingTestCases.Test_1.Trips,
+        //    _1094_CarPoolingTestCases.Test_1.Capacity);
     }
 }
