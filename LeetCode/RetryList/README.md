@@ -1,11 +1,11 @@
 ## RetryList
 
 1. 33 Search in Rotated Sorted Array 
-    - 13.04.25 ⏳
+    - 14.04.25 ✔
     - 27.04.25 ⏳
 
 1. 234 Palindrome Linked List 
-    - 13.04.25 ⏳
+    - 14.04.25 ✔
     - 27.04.25 ⏳
 
 1. 1249 Minimum Remove to Make Valid Parentheses 
