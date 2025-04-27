@@ -1,4 +1,5 @@
-﻿using LeetCode.Solutions.Backtracking.LetterCombinationsOfPhoneNumber;
+﻿using LeetCode.Solutions.Backtracking.GenerateParentheses;
+using LeetCode.Solutions.Backtracking.LetterCombinationsOfPhoneNumber;
 
 namespace LeetCode.Solutions.Backtracking;
 
@@ -8,5 +9,8 @@ public static class BacktrackingSolutions
     {
         //_17_LetterCombinationsOfPhoneNumber.Solution(
         //    _17_LetterCombinationsOfPhoneNumberTestCases.Test_1);
+
+        //_22_GenerateParentheses.Solution(
+        //    _22_GenerateParenthesesTestCases.Test_1);
     }
 }
