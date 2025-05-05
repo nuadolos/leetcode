@@ -1,16 +1,8 @@
 ## RetryList
 
-1. 1249 Minimum Remove to Make Valid Parentheses 
-    - 21.04.25 ✔
-    - 04.05.25 ⏳
-
-1. 253 Meeting Rooms II 
-    - 21.04.25 ✔
-    - 04.05.25 ⏳
-
 1. 130 Surrounded Regions 
-    - 27.04.25 ⏳
-    - 11.05.25 ⏳
+    - 05.05.25 ✔
+    - 18.05.25 ⏳
 
 ## Archive
 
@@ -57,3 +49,11 @@
 1. 234 Palindrome Linked List 
     - 14.04.25 ✔
     - 27.04.25 ✔
+
+1. 1249 Minimum Remove to Make Valid Parentheses 
+    - 21.04.25 ✔
+    - 05.05.25 ✔
+
+1. 253 Meeting Rooms II 
+    - 21.04.25 ✔
+    - 05.05.25 ✔
